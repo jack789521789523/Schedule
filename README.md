@@ -1,7 +1,7 @@
 # Schedule
 
 [Week1-2 07/08]     
-In Class: R markdown    https://lingli518.github.io/107-summer/week1-1/datascience1.html
+In Class: R markdown    https://lingli518.github.io/107-summer/week1-1/datascience1.html    
 At Home:       
 
 
