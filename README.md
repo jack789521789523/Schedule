@@ -1,8 +1,8 @@
 # Schedule
 
 [Week1-2 07/08]     
-In Class: R markdown
-At Home:   
+In Class: R markdown    
+At Home:       
 
 
 
