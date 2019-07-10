@@ -1,5 +1,12 @@
 # Schedule
 
+[Week1-2 07/08]     
+In Class:   
+At Home:   
+
+
+
+
 [Week1-2 07/11]     
 In Class:   
 At Home:    
